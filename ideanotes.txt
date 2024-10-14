@@ -14,3 +14,19 @@ authortarian
 ---
 game trade off
 
+
+-- 
+building
+
+skyscraper / earthscraper
+
+
+--
+
+factions
+
+--
+referenced game
+frostpunk 2
+stellaris
+factorio
