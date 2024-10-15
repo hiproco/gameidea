@@ -22,11 +22,15 @@ skyscraper / earthscraper
 
 
 --
+game focus
+
+--
 
 factions
 
---
-referenced game
-frostpunk 2
-stellaris
-factorio
+politic
+
+internal politics
+external politics
+
+
